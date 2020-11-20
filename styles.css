@@ -1,0 +1,14 @@
+#header{ 
+    background-color: rgba(0, 255, 200, 0.938);
+}
+#cardContainer{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: darkslateblue;
+}
+#redesSociales{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: darkslateblue;
+    }
+    
