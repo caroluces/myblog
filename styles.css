@@ -4,11 +4,16 @@
 #cardContainer{
     display: flex;
     flex-wrap: nowrap;
-    background-color: darkslateblue;
+    background-color: rgb(91, 14, 168);
 }
 #redesSociales{
     display: flex;
     flex-wrap: nowrap;
-    background-color: darkslateblue;
+    background-color: rgb(252, 252, 253);
+    justify-content: center;
+
     }
-    
+.redes {
+    padding: 6px
+
+}
