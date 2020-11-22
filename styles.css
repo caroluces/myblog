@@ -38,3 +38,9 @@ footer{
     display: flex;
     flex-wrap: nowrap;
 }
+#buttonCard3 {
+    font-size: 18px;
+  width: 150px;
+  height: 150px;
+  background-color: transparent; /* like this */
+}
