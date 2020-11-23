@@ -1,5 +1,6 @@
 #header{ 
     background-color: rgba(0, 255, 200, 0.938);
+    
 }
 #cardContainer{
     display: flex;
@@ -39,7 +40,25 @@ footer{
     flex-wrap: nowrap;
 }
 #buttonCard3 {
-    background-color: transparent !important;
-    outline:none;
-    border: none;
+    font-size: 18px;
+  width: 150px;
+  height: 150px;
+  background-color: transparent; /* like this */
+}
+#buttonCard2 {
+    font-size: 18px;
+  width: 150px;
+  height: 150px;
+  background-color: transparent; /* like this */
+  
+}
+#buttonCard1 {
+    font-size: 18px;
+  width: 150px;
+  height: 150px;
+  background-color: transparent; /* like this */
+}
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
 }
