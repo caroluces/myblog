@@ -39,11 +39,18 @@ footer{
     display: flex;
     flex-wrap: nowrap;
 }
+<<<<<<< HEAD
 #buttonCard3 {
     font-size: 18px;
   width: 150px;
   height: 150px;
   background-color: transparent; /* like this */
+=======
+.buttonCard {
+    background-color: transparent !important;
+    outline:none;
+    border: none;
+>>>>>>> dd83925b67201f280413ffd9005e7614b9d6c04c
 }
 #buttonCard2 {
     font-size: 18px;
