@@ -1,0 +1,49 @@
+h1 {
+    font-size: 60px;
+}
+
+#header {
+    background: #00d9ffbe;
+}
+
+h2 {
+    color: #ada1a1;
+}
+
+.text1 {
+    color: #ada1a1;
+    font-weight: bold;
+    text-align: justify;
+}
+
+.carrusel{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.titulo_carrusel{
+    color: whitesmoke;
+    background-color: #ada1a1;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+footer{
+    background-color:#00d9ffbe;
+}
+
+.tarjeta{
+    border:1px #00d9ffbe solid;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+@media (max-width:540px) {
+    h1{
+        font-size: 40px;
+    }
+    .carrusel{
+        width: 100%;
+    }
+}
